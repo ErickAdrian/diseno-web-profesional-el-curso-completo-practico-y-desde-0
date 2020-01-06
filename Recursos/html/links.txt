@@ -1,0 +1,9 @@
+http://www.falconmasters.com/recursos-herramientas/como-escribir-mas-rapido-codigo-html-y-css-emmet/
+
+https://es.lipsum.com/
+
+https://caniuse.com/
+
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input
+
+https://caniuse.com/#search=audio
